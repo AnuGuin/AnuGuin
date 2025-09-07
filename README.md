@@ -16,12 +16,6 @@
 
 ---
 
-### 🌟 Flagship Projects
-
--   **[RespireAI]([https://github.com/link-to-repo](https://github.com/AnuGuin/RespireAI))**
--   **[LegalAI]([https://github.com/link-to-repo](https://github.com/AnuGuin/LegalAI))**
-
----
 
 ### 🌐 Let's Connect
 
